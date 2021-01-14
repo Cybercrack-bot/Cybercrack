@@ -1,5 +1,3 @@
-import options as options
-
 try:
     import optparse
     from colorama import Fore, Back, Style, init
