@@ -7,7 +7,7 @@ Installation
 
 1. Clone the repository.
 2. Navigate to the folder and, make the python script executable using chmod +x CyberCrack.py.
-3. Execute the install. sh and after it is done move every thing in the Cybercrack folder to /usr/share/CyberCrack-Framework
+3. Execute the install. sh.
 4. And then go to terminal and type, source ~/.bashrc and then CyberCrack.py
 5. Then you should see a shell open after a few times 
 6. Type the command show options to list the available options.
