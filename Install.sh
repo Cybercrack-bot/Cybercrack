@@ -27,7 +27,7 @@ pip install ipwhois
 pip install wheel
 sudo mkdir /usr/share/cybercrack-framework
 echo "[+] Created a new directory named cybercrack-framework"
-mv -v $path"Cybercrack/*" "/usr/share/cybercrack-framework"
+echo "[+] Move all the things in Cybercrack to /usr/share/cybercrack-framework"
 echo "[+] Started to edit your bashrc"
 echo "[+] Type your sudo password bellow"
 sudo echo "export PATH=$PATH:/usr/share/cybercrack-framework/CyberCrack.py" >> ~/.bashrc	
