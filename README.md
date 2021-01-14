@@ -1,8 +1,13 @@
 # Cybercrack
+About CyberCrack
 
-Hi, I am hackerplaz and, this is a developing tool
-You must clone the repository and run the install.sh
-then run the python script CyberCrack.py
-if you type show options when the framework opens, you can see the 
-available commands
-then you'll understand
+Hi, I am hackerplaz and, this is a developing tool. My inspiration to code this tool was the Metasploit-framework. I coded this tool with python and, this is version 0.1 so, this is the first version and can expect bugs but, CyberCrack is great for information gathering, wireless payloads, and a shell, like meterpreter. So, this is how to install and configure the tool.
+
+Installation
+
+1. Clone the repository.
+2. Navigate to the folder.
+3. Execute the install. sh
+4. And then go to terminal and type, CyberCrack.py
+5. Then you should see a shell open after a few times 
+6. Type the command show options to list the available options.
