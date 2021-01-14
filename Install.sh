@@ -25,12 +25,9 @@ pip install colorama
 pip install subprocess.run
 pip install ipwhois
 pip install wheel
-sudo mkdir /usr/share/cybercrack-framework
-echo "[+] Created a new directory named cybercrack-framework"
-echo "[+] Move all the things in Cybercrack to /usr/share/cybercrack-framework"
 echo "[+] Started to edit your bashrc"
 echo "[+] Type your sudo password bellow"
-sudo echo "export PATH=$PATH:/usr/share/cybercrack-framework/CyberCrack.py" >> ~/.bashrc	
+sudo echo "export PATH=$HOME: Cybercrack/" >> ~/.bashrc	
 echo "[+] Done editing the bashrc"
 echo "[+] Finalizing.."
 echo -e $blue"
