@@ -1,7 +1,7 @@
 # Cybercrack
 About CyberCrack
 
-Hi, I am hackerplaz and, this is a developing tool. My inspiration to code this tool was the Metasploit-framework. I coded this tool with python and, this is version 0.1 so, this is the first version and can expect bugs but, CyberCrack is great for information gathering, wireless payloads, and a shell, like meterpreter. So, this is how to install and configure the tool.
+Hi, I am hackerplaz and, this is a developing tool. My inspiration to code this tool was the Metasploit-framework. I coded this tool with python and, this is version 0.2 so, this is the first version and can expect bugs but, CyberCrack is great for information gathering, wireless payloads, and a shell, like meterpreter. So, this is how to install and configure the tool.
 
 Installation
 
