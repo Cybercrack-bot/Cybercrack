@@ -25,12 +25,4 @@ pip install colorama
 pip install subprocess.run
 pip install ipwhois
 pip install wheel
-echo "[+] Started to edit your bashrc"
-echo "[+] Type your sudo password bellow"
-sudo echo "export PATH=$HOME: Cybercrack/" >> ~/.bashrc	
-echo "[+] Done editing the bashrc"
-echo "[+] Finalizing.."
-echo -e $blue"
-First type source ~/.bashrc and
-Now go and type CyberCrack.py
-"
+echo "[+] Done"
