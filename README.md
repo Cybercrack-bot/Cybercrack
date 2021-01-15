@@ -1,9 +1,17 @@
 # Cybercrack
 About CyberCrack
+--
 
-Hi, I am hackerplaz and, this is a developing tool. My github username is Cybercrack-bot. My inspiration to code this tool was the Metasploit-framework. I coded this tool with python and, this is version 0.2 so, this is the first version and can expect bugs but, CyberCrack is great for information gathering, wireless payloads, and a shell, like meterpreter. So, this is how to install and configure the tool.
+The CyberCrack Framework is released under a GNU General Public License v3.0. See LICENSE for more information.
+
+This is the latest version of CyberCrack. The version 0.2 is the latest version.
+
+The wiki is available at: https://github.com/Cybercrack-bot/Cybercrack/wiki
+
+New bugs and feature requests should be directed to: https://github.com/Cybercrack-bot/Cybercrack/issues
 
 Installation
+--
 
 1. Clone the repository.
 2. Navigate to the folder.
