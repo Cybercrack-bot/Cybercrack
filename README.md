@@ -6,7 +6,7 @@ Hi, I am hackerplaz and, this is a developing tool. My inspiration to code this 
 Installation
 
 1. Clone the repository.
-2. Navigate to the folder and, make the python script executable using chmod +x CyberCrack.py.
+2. Navigate to the folder.
 3. Execute the install. sh.
 4. And then go to terminal and type, sudo python3 CyberCrack.py
 5. Then you should see a shell open after a few times 
