@@ -25,4 +25,5 @@ pip install colorama
 pip install subprocess.run
 pip install ipwhois
 pip install wheel
+pip install netaddr
 echo "[+] Done"
