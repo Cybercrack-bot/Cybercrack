@@ -7,7 +7,7 @@ Cyber_Core = initalize.Cyber_Core
 framework = shell.framework()
 red = initalize.red
 reset = initalize.reset
-VERSION = "0.2"
+VERSION = "0.3"
 try:
         import socket
         import random
