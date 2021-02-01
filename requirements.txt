@@ -12,7 +12,7 @@ ipwhois
 scapy
 browser-cookie3
 requests
-BeautifulSoup
+bs4
 uuid
 psutil
 opencv-python
