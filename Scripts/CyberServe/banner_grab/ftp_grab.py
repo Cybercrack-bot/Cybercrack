@@ -11,6 +11,7 @@ def grab(ip):
         time.sleep(1)
         server.connect((ip, 21))
         data = server.recv(1024)
+        print("[+] Banner recieved")
         print_status("[+] " + data.decode())
         print_success()
     except socket.error:
