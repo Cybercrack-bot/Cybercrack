@@ -182,17 +182,17 @@ def framework():
                         input("Hit enter to continue >> ")
                         if platform.system() == 'Windows':
                             subprocess.call("git reset --hard", shell=True)
-                            subprocess.call("git pull", shell=True)
+                            subprocess.call("sudo git pull", shell=True)
                             print_success()
 
                         elif platform.system() == 'Linux':
                             subprocess.call("git reset --hard", shell=True)
-                            subprocess.call("git pull", shell=True)
+                            subprocess.call("sudo git pull", shell=True)
                             print_success()
 
                         else:
                             subprocess.call("git reset --hard", shell=True)
-                            subprocess.call("git pull", shell=True)
+                            subprocess.call("sudo git pull", shell=True)
                             print_success()
                         update_complete = True
                         input("Hit enter to finish >> ")
