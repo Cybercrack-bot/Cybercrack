@@ -1,5 +1,3 @@
-import options as options
-
 try:
     import optparse
     from colorama import Fore, Back, Style, init
@@ -17,7 +15,7 @@ try:
     parser.add_option("--LHOST", dest="lhost", help="The attacker's Ip. Your ip")
     parser.add_option("--LPORT", dest="lport", help="The listener port. specify any port")
     parser.add_option("-f", "--filename", dest="file", help="The backdoor file you want to be created")
-    parser.add_option("--current ", dest="list", help="List out the current things. --current modules for modules")
+    parser.add_option("--current ", dest="list", help="List out the current things. --current payloads for payloads")
     options, args = parser.parse_args()
     if options.list == "payloads":
         print("windows/CyberShell/rev_tcp       -      " + red + "strong" + reset)
