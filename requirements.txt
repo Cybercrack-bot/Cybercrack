@@ -7,6 +7,7 @@ python-geoip-python3
 ipwhois
 wheel
 phonenumbers
+python-nmap
 netaddr
 ipwhois
 scapy
